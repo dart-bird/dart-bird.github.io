@@ -17,7 +17,7 @@ const RESOURCES = {
 "icons/krumaskaicon.png": "68362a8c90d5975eb43beab3821abeab",
 "index.html": "92fa7049201217807f045edce08b9462",
 "/": "92fa7049201217807f045edce08b9462",
-"main.dart.js": "8be73349e5ba41a4e65edb1a46f2cb80",
+"main.dart.js": "dc3cf58b9f56ffb64144142924aa0c96",
 "manifest.json": "487666a155cea7038d009795dc11c2e5"
 };
 
