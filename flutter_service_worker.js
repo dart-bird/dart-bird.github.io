@@ -3,12 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "d6c297aadb3a0cad6999e830dc3db0f6",
+  "assets/AssetManifest.json": "b987446b02b010307827a1ed4cb09747",
 "assets/assets/icons/krumaskaicon.png": "68362a8c90d5975eb43beab3821abeab",
 "assets/assets/images/FirstToDig.png": "f3527e54c4639fc61ebfe7e7081366d2",
+"assets/assets/images/flutter_ca.jpg": "c9307b4985146f4f1dc0277a9cfca5ec",
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/NOTICES": "216f8a0cc430fbc8b60451dfb392018e",
+"assets/NOTICES": "780d0894778ae475679974ebb8a3ddbe",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "favicon.png": "68362a8c90d5975eb43beab3821abeab",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -16,7 +17,7 @@ const RESOURCES = {
 "icons/krumaskaicon.png": "68362a8c90d5975eb43beab3821abeab",
 "index.html": "92fa7049201217807f045edce08b9462",
 "/": "92fa7049201217807f045edce08b9462",
-"main.dart.js": "e41005686971b12647b26c675a625430",
+"main.dart.js": "1b93782038cbdf23bdf5883f81d35ec1",
 "manifest.json": "487666a155cea7038d009795dc11c2e5"
 };
 
