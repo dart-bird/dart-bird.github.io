@@ -41158,10 +41158,10 @@ s=u.t
 return T.q0(H.b([new T.di(C.tH,T.dX(H.b([r,L.er(this.d,t)],s),C.be,C.a3),null)],s),C.as)}}
 D.ie.prototype={
 J:function(a){var t=null,s=D.l_(t,L.er("Home",F.aE(a,!1).a.a<=500?C.qr.e5(18*F.aE(a,!1).a.a/480):C.qr),C.P,!1,t,t,t,t,t,t,t,t,t,t,new D.OD(),t,t,t,t,t)
-return T.q0(H.b([s,new R.zk(t),new U.jq("TIL","/home/category/til",t),new U.jq("Projects","/home/category/projects",t),new U.jq("Repo","/home/category/repo",t),new U.jq("Books","/home/category/books",t),new T.bJ(10,t,t,t),D.l_(t,K.FU(C.k,t,new U.oA(M.a3R(t,t,new L.iH("assets/icons/krumaskaicon.png",t,t)),t),t),C.P,!1,t,t,t,t,t,t,t,t,t,t,new D.OE(),t,t,t,t,t)],u.t),C.as)}}
+return T.q0(H.b([s,new R.zk(t),new U.jq("TIL","/category/til",t),new U.jq("Projects","/category/projects",t),new U.jq("Repo","/category/repo",t),new U.jq("Books","/category/books",t),new T.bJ(10,t,t,t),D.l_(t,K.FU(C.k,t,new U.oA(M.a3R(t,t,new L.iH("assets/icons/krumaskaicon.png",t,t)),t),t),C.P,!1,t,t,t,t,t,t,t,t,t,t,new D.OE(),t,t,t,t,t)],u.t),C.as)}}
 D.OD.prototype={
 $0:function(){var t=$.dV()
-t.Ol("/home/",u.z)
+t.Ol("/home",u.z)
 P.bq(t.Q)},
 $S:0}
 D.OE.prototype={
@@ -41177,7 +41177,7 @@ case 5:case 3:return P.a8(null,s)}})
 return P.a9($async$$0,s)},
 $S:10}
 F.wL.prototype={
-J:function(a){return new Q.ow("/home/",new F.KQ(),"KRUMASA Blog",!1,H.b([F.vZ("/home/:id",new F.KR()),F.vZ("/home/category/books",new F.KS()),F.vZ("/home/category/repo",new F.KT()),F.vZ("/home/category/projects",new F.KU()),F.vZ("/home/category/til",new F.KV())],u.tv),null)}}
+J:function(a){return new Q.ow("/home",new F.KQ(),"KRUMASA Blog",!1,H.b([F.vZ("/:id",new F.KR()),F.vZ("/category/books",new F.KS()),F.vZ("/category/repo",new F.KT()),F.vZ("/category/projects",new F.KU()),F.vZ("/category/til",new F.KV())],u.tv),null)}}
 F.KQ.prototype={
 $2:function(a,b){return new K.lT(new K.q5(),U.wU(b,new F.KP(),u.ru),null)},
 $C:"$2",
