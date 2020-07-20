@@ -3,12 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "d59bbeafb43f877daad68b3e4108b4f1",
+  "assets/AssetManifest.json": "3c7154f06236592824b413c5b8f8f275",
 "assets/assets/icons/krumaskaicon.png": "68362a8c90d5975eb43beab3821abeab",
 "assets/assets/images/FirstToDig.png": "f3527e54c4639fc61ebfe7e7081366d2",
 "assets/assets/images/flutter_ca.jpg": "c9307b4985146f4f1dc0277a9cfca5ec",
 "assets/assets/TIL/2020-07-06-flutter.md": "952baa5f38ca7943601ba6c62fa70a1c",
-"assets/assets/TIL.json": "7d3b791247beb874941d26d196c4f7e9",
+"assets/assets/TIL/TIL.json": "7d3b791247beb874941d26d196c4f7e9",
 "assets/FontManifest.json": "ffef466a50fbc9ba6a16887682586d0d",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/NOTICES": "790717b800543c2d45e562afa385958e",
@@ -20,7 +20,7 @@ const RESOURCES = {
 "icons/krumaskaicon.png": "68362a8c90d5975eb43beab3821abeab",
 "index.html": "92fa7049201217807f045edce08b9462",
 "/": "92fa7049201217807f045edce08b9462",
-"main.dart.js": "f44f64a7a33976fa328d177027ccc1d5",
+"main.dart.js": "84d676139e39ff7897b03bfd48637dc8",
 "manifest.json": "487666a155cea7038d009795dc11c2e5"
 };
 

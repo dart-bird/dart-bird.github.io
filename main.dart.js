@@ -51560,7 +51560,7 @@ o0:function(a,b){return this.Im(a,b)},
 Im:function(a,b){var t=0,s=P.O(u.z),r,q,p
 var $async$o0=P.K(function(c,d){if(c===1)return P.L(d,s)
 while(true)switch(t){case 0:t=3
-return P.a0($.q4().GG("TIL.json"),$async$o0)
+return P.a0($.q4().GG("assets/TIL/TIL.json"),$async$o0)
 case 3:q=d
 p=a.split("/")
 r=J.a2(J.a2(C.bf.dO(0,q),p[0]),p[1])
