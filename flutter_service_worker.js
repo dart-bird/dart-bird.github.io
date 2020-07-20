@@ -3,12 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "3c7154f06236592824b413c5b8f8f275",
+  "assets/AssetManifest.json": "197fbabd613a08e8a90c860738daf5d3",
 "assets/assets/icons/krumaskaicon.png": "68362a8c90d5975eb43beab3821abeab",
 "assets/assets/images/FirstToDig.png": "f3527e54c4639fc61ebfe7e7081366d2",
 "assets/assets/images/flutter_ca.jpg": "c9307b4985146f4f1dc0277a9cfca5ec",
 "assets/assets/TIL/2020-07-06-flutter.md": "952baa5f38ca7943601ba6c62fa70a1c",
-"assets/assets/TIL/TIL.json": "7d3b791247beb874941d26d196c4f7e9",
+"assets/assets/TIL/2020-07-20-flutter.md": "a60e0848fe528d543c8f9ac65768344e",
+"assets/assets/TIL/TIL.json": "cee06df92173f3d14d7df107051d9635",
 "assets/FontManifest.json": "ffef466a50fbc9ba6a16887682586d0d",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/NOTICES": "790717b800543c2d45e562afa385958e",
