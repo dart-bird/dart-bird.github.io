@@ -19,10 +19,10 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/AssetManifest.json": "6b3a48d411b2c909064dbb889d2ea755",
 "manifest.json": "eca4969111242980fb2bab3b7bda66fc",
-"main.dart.js": "1761239d7726f4e424c341c19c2f4c0d",
+"main.dart.js": "b20a4e73a32066bc67568d9dfb243d0a",
 "version.json": "874700077d7cbf8a8c797897c5a90ca8",
-"index.html": "3b05191ad51a752661a90195e7b5577e",
-"/": "3b05191ad51a752661a90195e7b5577e",
+"index.html": "7e6bca72e1a40f5f228178f7576e4e49",
+"/": "7e6bca72e1a40f5f228178f7576e4e49",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/krumaskaicon.png": "68362a8c90d5975eb43beab3821abeab"
